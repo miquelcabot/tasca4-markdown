@@ -1,8 +1,7 @@
 # Taca 4 - Markdown i Git
 
-| --------------- |:-------------:|
-| Nom de l'alumne |               |
-| Data            |               |
+Nom de l'alumne = ___
+Data = ___
 
 ## Enunciat
 **Markdown** és un llenguatge de marques lleuger, que permet escriure utilitzant un format de text planer fàcil d'escriure i de llegir i després convertir-ho en un XHTML o HTML estructuralment vàlid. El llenguatge té moltes similituds amb les convencions que ja existeixen a l'hora de formatar text planer en correus electrònics.
