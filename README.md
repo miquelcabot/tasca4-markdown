@@ -1,4 +1,4 @@
-# Taca 4 - Markdown i Git
+# Tasca 4 - Markdown i Git
 
 Nom de l'alumne = ________
 
